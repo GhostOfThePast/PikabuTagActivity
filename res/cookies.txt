@@ -1,0 +1,2 @@
+put your PHPSESS cookie here
+put your phpDug2 cookie here
